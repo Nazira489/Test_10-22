@@ -1,0 +1,2 @@
+num = "Christmas"
+print(num)
